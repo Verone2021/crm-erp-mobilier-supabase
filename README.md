@@ -1,3 +1,15 @@
+
+## 🛡️ Sauvegardes
+
+### Dernière sauvegarde complète
+- **Date :** 2025-07-07
+- **Migrations :** 15 fichiers SQL versionnés
+- **Localisation :** `supabase/migrations/`
+- **Méthode :** Un fichier SQL par table/fonction, sauvegardé en local et sur GitHub
+
+### Historique des backups
+- `supabase/backups/backup_full.sql` : Backup global SQL (optionnel)
+- `supabase/migrations/` : Migrations individuelles (recommandé pour CI/CD et restauration rapide)
 # CRM/ERP Mobilier & Décoration - Supabase
 
 ## 📋 Description
