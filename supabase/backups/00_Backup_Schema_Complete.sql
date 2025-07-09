@@ -118,3 +118,4 @@ CREATE TABLE products (
 -- Vues: contacts_avec_partenaire, contacts_principaux
 -- Date de création: 2024-07-02
 -- Environnement: Supabase Production (tyqruipiblvgdqfoghmw)
+
