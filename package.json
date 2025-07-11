@@ -1,0 +1,10 @@
+{
+  "name": "crm-erp-backup",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "windsurf dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.50.4"
+  }
+}
